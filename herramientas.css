@@ -1,0 +1,163 @@
+
+/* posicionamiento */
+
+.limite{
+    position: relative;
+}
+
+.sucesion{
+    position: relative;
+}
+
+.resultado{
+    position: relative;
+}
+
+.limite{
+    left: 160px;
+    top: 70px;
+}
+
+.sucesion{
+    left: 95px;
+    top: 150px;
+}
+
+.resultado{
+    left: 160px;
+    top: 300px;
+}
+
+#calcular{
+    position: relative;
+    top: 373px;
+    left: 100px;
+    width: 100px;
+    height: 30px;
+}
+
+#limpiar{
+    position: absolute;
+    top: 392px;
+    left: 304px;
+    width: 100px;
+    height: 30px;
+}
+
+#foto1{
+    width: 550px;
+    top: -25px;
+    right: -80px;
+    position: relative;
+}
+
+#calcular{
+    background: #6BF075;
+    border-radius: 20px;
+    border: none;
+}
+
+#limpiar{
+    background: #F07D6B;
+    border-radius: 20px;
+    border: none;
+}
+
+#calcular:active{
+    position: absolute;
+    top: 397px;
+    left: 100.5px;
+    width: 99.5px;
+    height: 35px;
+border-radius: 20px;
+
+    border: none;
+    background: #6BF075 ;
+}
+
+#limpiar:active{
+    position: absolute;
+    top: 397px;
+    left: 304.5px;
+    width: 99.5px;
+    height: 35px;
+border-radius: 20px;
+
+    border: none;
+    background: #F07D6B ;
+}
+
+.caca{
+    position: absolute;
+    top: 397px;
+    left: 100.5px;
+    width: 99.5px;
+    height: 35px;
+border-radius: 20px;
+
+    border: none;
+    background: #5DDA67 ;
+
+}
+
+.lili{
+    position: absolute;
+    top: 397px;
+    left: 304.5px;
+    width: 99.5px;
+    height: 35px;
+border-radius: 20px;
+
+    border: none;
+    background: #DA655D ;
+}
+
+#foto2{
+    width: 50px;
+    height: 50px;
+    position: absolute;
+}
+
+#foto3{
+    width: 50px;
+    height: 50px;
+}
+
+#foto4{
+    position: absolute;
+    left: 50px;
+    width: 50px;
+    height: 50px;
+}
+
+#foto5{
+    position: absolute;
+    right: 50px;
+    width: 50px;
+    height: 50px;
+}
+
+#a{
+    position: absolute;
+    top: 70px;
+    width: 100px;
+    left: 30px;
+}
+
+#r{
+    position: absolute;
+    top: 70px;
+    width: 100px;
+    left: 196px;
+
+
+}
+
+#n{
+    position: absolute;
+    top: 70px;
+    width: 100px;
+    right: 30px;
+
+}
+
